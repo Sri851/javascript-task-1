@@ -1,0 +1,46 @@
+//task1Q
+//1-1task
+let age=23;
+console.log('myage is:',age);
+console.log(26);
+console.log(' i have complete programing:3weeks' );
+//1-2task
+//commenent section//
+//1-3 task
+let string="javascript";
+console.log(string);
+let num='2011';
+console.log(num);
+console.log(20.49);
+console.log('woohoo! i love to code1! #codeacademy');
+//1-4task
+let age1=25;
+console.log('sending peoples live on mars:',age1+3.5);
+let currentyear=2022;
+console.log(currentyear-1969);
+console.log('since how many years moon landing:',53);
+console.log(240/65);
+console.log('this % of sun is that is made up of helium:',0.2708*100);
+//1-5task
+let str1='Hello';
+let str2='world';
+// we can use both ways
+console.log(str1+str2);
+console.log('hello'+'world');
+console.log('Hello'+" "+'world');
+//1-6task
+let name="teaching the world how to code";
+console.log(name.length);
+//1-7task
+let word='codecademy';
+console.log(word.toUpperCase());// all captials to  change
+console.log('SREENU'.toLowerCase());//all small  to change
+let remove=' Remove whitespace ';
+console.log(remove.trim());
+//1-8task
+let randomNumber=Math.floor(Math.random()*100);
+console.log(randomNumber);
+console.log(Math.floor(43.8));
+console.log(Number .isInteger(2017));
+
+
